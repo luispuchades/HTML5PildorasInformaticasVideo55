@@ -33,6 +33,7 @@
     margin: auto;
     height: 200px;
     min-width: 300px;
+    overflow-y: scroll;
     padding: 20px;
     vertical-align: top;
     width: 40%;
